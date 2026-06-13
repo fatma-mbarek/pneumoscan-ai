@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🫁 PneumoScan AI
 ### Explainable Pneumonia Detection from Chest X-Rays
 
@@ -188,3 +189,7 @@ git push hf main
 ---
 
 *Projet réalisé dans le cadre d'un portfolio CV — Ingénierie Biomédicale × Intelligence Artificielle*
+=======
+# pneumoscan-ai
+Explainable AI system for pneumonia detection from chest X-rays using DenseNet121 + Grad-CAM
+>>>>>>> 20666aadd5fec9bb37b87de3e549f1706a3f3bdf
